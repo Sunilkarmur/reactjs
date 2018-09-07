@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "dell",
+      "price": 48000,
+      "color": "black, gray",
+      "condition": "new",
+      "image": "https://rukminim1.flixcart.com/image/832/832/jiovssw0/computer/n/n/t/dell-na-laptop-original-imaf6fvgnmmcvgf9.jpeg?q=100"
+    },
+    {
+      "id": 2,
+      "name": "lenovo",
+      "price": 40000,
+      "color": "black, gray, white",
+      "condition": "new",
+      "image": "https://rukminim1.flixcart.com/image/832/832/jk01bww0/computer/m/m/9/lenovo-na-laptop-original-imaf7gczdfgrxyeh.jpeg?q=100"
+    },
+    {
+      "id": 3,
+      "name": "hp",
+      "price": 35000,
+      "color": "black",
+      "condition": "new",
+      "image": "https://rukminim1.flixcart.com/image/832/832/jjn6d8w0/computer/p/k/7/hp-na-laptop-original-imaf766fkqcju9yf.jpeg?q=100"
+    },
+    {
+      "id": 4,
+      "name": "macmini",
+      "price": 55000,
+      "color": "gray",
+      "condition": "used",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/315E4GxrX5L.jpg"
+    }
+  ]
+}
